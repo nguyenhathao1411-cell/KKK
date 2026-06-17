@@ -1,9 +1,6 @@
 # Tóm Tắt Kiến Thức Xác Suất Thống Kê
 
 Tài liệu tổng hợp các công thức, định nghĩa và quy tắc quyết định trong môn Xác suất Thống kê.
-
----
-
 ## 1. Ước Lượng Tham Số
 
 ### Ước lượng điểm và tính chất
@@ -18,8 +15,6 @@ Tài liệu tổng hợp các công thức, định nghĩa và quy tắc quyết
 * **$(G_1, G_2)$**: Khoảng tin cậy ngẫu nhiên (khi các giới hạn là các biến ngẫu nhiên).
 * **$(g_1, g_2)$**: Khoảng tin cậy cụ thể (khi đã thay số liệu mẫu cụ thể).
 
----
-
 ## 2. Các Phân Phối Xác Suất Đặc Biệt
 
 ### Phân phối đều (Uniform Distribution)
@@ -32,8 +27,6 @@ Cho biến ngẫu nhiên $X \sim U(a, b)$ với $a, b$ lần lượt là giá tr
 Cho biến ngẫu nhiên $X \sim P(\lambda)$:
 * **Công thức**: $P(X = a) = \frac{e^{-\lambda} \cdot \lambda^a}{a!}$
 
----
-
 ## 3. Biến Ngẫu Nhiên Liên Tục
 
 ### Tính chất của hàm mật độ $f(x)$ và hàm phân phối $F(X)$
@@ -45,16 +38,12 @@ Cho biến ngẫu nhiên $X \sim P(\lambda)$:
 * **Kỳ vọng**: $E(X) = \int_{a}^{b} x \cdot f(x) dx$
 * **Phương sai**: $V(X) = \int_{a}^{b} x^2 \cdot f(x) dx - [E(X)]^2$
 
----
-
 ## 4. Mối Quan Hệ Giữa Các Biến Cố
 
 * **Tính xung khắc**: Nếu $P(AB) \neq 0 \Rightarrow$ Hai biến cố **không** xung khắc.
 * **Tính độc lập**: Nếu $P(AB) = P(A) \cdot P(B) \Rightarrow$ Hai biến cố độc lập.
 * **Lưu ý định lý**: Khi $A$ và $B$ là hai biến cố có xác suất dương ($P(A)>0, P(B)>0$), chúng **không thể** vừa xung khắc vừa phụ thuộc nhau.
 * **Biến cố đối ngẫu**: $P(\bar{A} \cdot \bar{B}) = 1 - P(A + B)$
-
----
 
 ## 5. Kiểm Định Giả Thuyết Thống Kê
 
@@ -82,9 +71,7 @@ Cho biến ngẫu nhiên $X \sim P(\lambda)$:
 ### Bài toán ANOVA (Phân tích phương sai)
 * Đặt giả thuyết:
   * $H_0$: Nhân tố không có tác động đến chỉ tiêu nghiên cứu.
-  * $H_1$: Nhân tố có tác động đến chỉ tiêu nghiên cứu.
-
----
+  * $H_1$: Nhân tố có tác động đến chỉ tiêu nghiên cứu
 
 ## 6. Sai Lầm Trong Kiểm Định
 
