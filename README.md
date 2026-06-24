@@ -100,3 +100,23 @@
 ## 7. Các Trường Hợp Đặc Biệt Khác
 
 *   **Thị trường dư cung:** Khi thị trường tự điều chỉnh về mức cân bằng, **không có đường nào dịch chuyển**, lượng cung sẽ tự động giảm và lượng cầu tăng khi lãi suất/giá cả dịch chuyển về điểm cân bằng.
+*   **Chỉ trích chính sách bình ổn chủ động:** Những người phản đối chính sách này đưa ra lập luận dựa trên **độ trễ** của chính sách và những **ảnh hưởng lâu dài** tiêu cực của nó đối với tổng cầu.
+*   **Biến động chỉ số giá ($CPI$ và $DGDP$):** Khi chỉ số giá tiêu dùng ($CPI$) tăng 1% và chỉ số điều chỉnh GDP ($DGDP$) tăng 1% .
+*   **Tình huống biệt lệ (Chi phí điều trị ung thư):** ung thư, tăng ít hơn 1% .
+*   **Tính cứng nhắc của giá cả và tiền lương:** Đối với một số sản phẩm công nghiệp phức tạp (ví dụ: lốp xe Michelin), cả **giá cả và tiền lương đều có tính chất cứng nhắc** (không linh hoạt thay đổi ngay lập tức theo biến động thị trường).
+*   **Bản chất của lãi suất:** Lãi suất ngân hàng được niêm yết công khai trên các website chính là một **biến danh nghĩa**.
+
+### Biến động của Mô hình Tổng cung - Tổng cầu ($AD - AS$)
+
+*   **Khi Tổng cầu ($AD$) tăng:**
+    *   *Trong ngắn hạn:* Mức giá chung và sản lượng (lượng cân bằng mới) đều **tăng**.
+    *   *Trong dài hạn:* Chỉ có mức giá **tăng**, sản lượng quay về mức tiềm năng.
+*   **Khi Tổng cầu ($AD$) giảm:**
+    *   *Trong ngắn hạn:* Mức giá chung và sản lượng (lượng cân bằng mới) đều **giảm**.
+    *   *Trong dài hạn:* Chỉ có mức giá **giảm**, sản lượng quay về mức tiềm năng.
+*   **Khi Tổng cung ($AS$) tăng:**
+    *   *Trong ngắn hạn:* Mức giá chung **giảm** và sản lượng **tăng**.
+    *   *Trong dài hạn:* Sản lượng và mức giá **không đổi** (đối với cú sốc cung tạm thời).
+*   **Khi Tổng cung ($AS$) giảm:**
+    *   *Trong ngắn hạn:* Mức giá chung **tăng** và sản lượng **giảm** (hiện tượng lạm phát kèm suy thoái).
+    *   *Trong dài hạn:* Sản lượng và mức giá **không đổi** (khi nền kinh tế tự điều chỉnh trong dài hạn).
