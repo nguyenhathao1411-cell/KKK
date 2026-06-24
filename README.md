@@ -1,77 +1,102 @@
-## CHƯƠNG 1: NHỮNG VẤN ĐỀ CƠ BẢN VỀ NHÀ NƯỚC
-### 1. Nguồn gốc của Nhà nước
-*   **Quan điểm chủ nghĩa Mác - Lênin:** Nhà nước xuất hiện một cách khách quan, là sản phẩm và biểu hiện của những mâu thuẫn giai cấp không thể điều hòa được.
-*   **Hai tiền đề quyết định sự ra đời:**
-    *   *Tiền đề kinh tế:* Chế độ tư hữu tài sản xuất hiện.
-    *   *Tiền đề xã hội:* Xã hội phân chia thành các giai cấp đối kháng và đấu tranh giai cấp nổ ra.
-*   **Các học thuyết phi Mác-xít:**
-    *   *Thuyết thần quyền:* Nhà nước do Thượng đế/Đấng tối cao tạo ra để quản lý con người.
-    *   *Thuyết gia trưởng:* Nhà nước phát triển từ mô hình một gia đình lớn, quyền lực nhà nước như quyền của người cha.
-    *   *Thuyết khế ước xã hội:* Nhà nước là một hợp đồng dân sự được ký kết giữa các thành viên trong xã hội.
-### 2. Bản chất và đặc trưng của Nhà nước
-*   **Bản chất của Nhà nước:** Luôn song hành 2 tính chất:
-    *   *Tính giai cấp:* Nhà nước là công cụ sắc bén để giai cấp thống trị tổ chức quản lý và trấn áp các giai cấp bị trị.
-    *   *Tính xã hội:* Nhà nước phải giải quyết các công việc chung của cộng đồng để duy trì trật tự xã hội (y tế, giáo dục, giao thông...).
-*   **5 đặc trưng cơ bản để phân biệt Nhà nước với các tổ chức khác:**
-    1.  Nhà nước phân chia và quản lý dân cư theo các đơn vị hành chính lãnh thổ.
-    2.  Nhà nước thiết lập quyền lực công cộng đặc biệt (có bộ máy cưỡng chế chuyên nghiệp: quân đội, cảnh sát, nhà tù).
-    3.  Nhà nước có chủ quyền quốc gia (quyền lực tối cao trong nội bộ và độc lập trong quan hệ quốc tế).
-    4.  Nhà nước là tổ chức duy nhất có quyền ban hành pháp luật và quản lý xã hội bằng pháp luật.
-    5.  Nhà nước quy định và tiến hành thu các loại thuế bắt buộc để duy trì bộ máy.
-### 3. Hình thức và bộ máy Nhà nước
-*   **Hình thức chính thể (Cách tổ chức quyền lực tối cao):**
-    *   *Chính thể Quân chủ:* Quyền lực tối cao tập trung vào một người đứng đầu theo nguyên tắc truyền ngôi (Quân chủ tuyệt đối hoặc Quân chủ hạn chế/lập hiến).
-    *   *Chính thể Cộng hòa:* Quyền lực tối cao thuộc về một cơ quan được bầu ra trong một thời hạn nhất định (Cộng hòa đại nghị, Cộng hòa tổng thống, Cộng hòa hỗn hợp, Cộng hòa XHCN).
-*   **Hình thức cấu trúc (Cách tổ chức theo lãnh thổ):**
-    *   *Nhà nước đơn nhất:* Có một hệ thống pháp luật, một Hiến pháp và một hệ thống cơ quan nhà nước duy nhất từ trung ương đến địa phương (Ví dụ: Việt Nam).
-    *   *Nhà nước liên bang:* Hợp thành từ nhiều bang thành viên, mỗi bang có hệ thống luật pháp và bộ máy chính quyền riêng (Ví dụ: Mỹ).
-*   **Bộ máy Nhà nước Việt Nam:** Tổ chức theo nguyên tắc quyền lực nhà nước là thống nhất, có sự phân công, phối hợp và kiểm soát giữa 4 khối cơ quan:
-    *   *Cơ quan quyền lực nhà nước (Lập pháp):* Quốc hội (tối cao) và Hội đồng nhân dân các cấp (địa phương). Do dân bầu ra.
-    *   *Cơ quan hành chính nhà nước (Hành pháp):* Chính phủ (cao nhất), các Bộ, cơ quan ngang Bộ và Ủy ban nhân dân các cấp.
-    *   *Cơ quan xét xử (Tư pháp):* Tòa án nhân dân tối cao, Tòa án nhân dân các cấp và Tòa án quân sự.
-    *   *Cơ quan kiểm sát:* Viện kiểm sát nhân dân tối cao, Viện kiểm sát nhân dân các cấp và Viện kiểm sát quân sự.
-## CHƯƠNG 2: NHỮNG VẤN ĐỀ CƠ BẢN VỀ PHÁP LUẬT
-### 1. Nguồn gốc và Thuộc tính của Pháp luật
-*   **Nguồn gốc:** Ra đời khách quan cùng với nhà nước. Được nhà nước ban hành (làm mới) hoặc thừa nhận (luật hóa các quy tắc có sẵn) nhằm quản lý xã hội.
-*   **3 thuộc tính cơ bản của pháp luật:**
-    *   *Tính quy phạm phổ biến:* Pháp luật là khuôn mẫu, quy tắc ứng xử chung, áp dụng cho mọi chủ thể và được lặp đi lặp lại nhiều lần trong thực tế.
-    *   *Tính xác định chặt chẽ về hình thức:* Các điều khoản phải rõ ràng, một nghĩa, chuẩn xác và được thể hiện trong các văn bản quy phạm pháp luật do nhà nước quy định.
-    *   *Tính được bảo đảm bằng nhà nước (Tính cưỡng chế):* Mọi người bắt buộc phải tuân theo, nếu vi phạm sẽ bị nhà nước áp dụng các biện pháp cưỡng chế để xử lý.
-### 2. Hình thức pháp luật (Nguồn của pháp luật)
-*   **Tập quán pháp:** Nhà nước thừa nhận các tập quán, phong tục lưu truyền trong xã hội và nâng chúng lên thành luật.
-*   **Tiền lệ pháp (Án lệ):** Nhà nước thừa nhận các bản án, quyết định của cơ quan tòa án đối với vụ việc trước đó để làm khuôn mẫu giải quyết cho các vụ việc tương tự sau này.
-*   **Vản bản quy phạm pháp luật (VBQPPL):** Văn bản do cơ quan nhà nước có thẩm quyền ban hành theo thủ tục luật định, chứa đựng các quy tắc ứng xử chung (Đây là nguồn pháp luật chủ yếu và quan trọng nhất tại Việt Nam).
-### 3. Cấu trúc Quy phạm pháp luật và Hệ thống pháp luật
-*   **Cơ cấu của một Quy phạm pháp luật (QPPL):** Thường gồm 3 bộ phận logic:
-    *   *Giả định:* Nêu lên môi trường, hoàn cảnh, điều kiện thực tế và xác định chủ thể nào rơi vào hoàn cảnh đó (Trả lời câu hỏi: *Ai? Trong điều kiện, hoàn cảnh nào?*).
-    *   *Quy định:* Nêu lên mẫu hành vi nhà nước yêu cầu chủ thể phải thực hiện (Trả lời câu hỏi: *Được làm gì? Phải làm gì? Không được làm gì?*).
-    *   *Chế tài:* Chỉ ra hậu quả pháp lý bất lợi mà chủ thể phải gánh chịu nếu không thực hiện đúng phần Quy định (Trả lời câu hỏi: *Nếu vi phạm sẽ bị xử lý thế nào?*).
-*   **Cấu trúc hệ thống pháp luật:** Sắp xếp từ nhỏ đến lớn:
-    *   *Quy phạm pháp luật:* Đơn vị nhỏ nhất (các điều luật).
-    *   *Chế định pháp luật:* Nhóm các quy phạm pháp luật điều chỉnh một nhóm quan hệ xã hội cùng loại (Ví dụ: Chế định hợp đồng).
-    *   *Ngành luật:* Hệ thống các quy phạm pháp luật điều chỉnh các quan hệ xã hội cùng loại trong một lĩnh vực nhất định (Ví dụ: Luật Dân sự, Luật Hình sự).
-## CHƯƠNG 3: QUAN HỆ PHÁP LUẬT, VI PHẠM PHÁP LUẬT VÀ TRÁCH NHIỆM PHÁP LÝ
-### 1. Quan hệ pháp luật (QHPL)
-*   **Khái niệm:** Là các quan hệ xã hội được các quy phạm pháp luật điều chỉnh, trong đó các bên tham gia có các quyền và nghĩa vụ pháp lý được nhà nước bảo đảm thực hiện.
-*   **3 thành phần cấu thành QHPL:**
-    *   *Chủ thể:* Cá nhân (phải có Năng lực pháp luật và Năng lực hành vi) hoặc Tổ chức (Pháp nhân hoặc tổ chức không có tư cách pháp nhân).
-    *   *Khách thể:* Những lợi ích vật chất, tinh thần hoặc hành vi mà các bên chủ thể hướng tới để thỏa mãn nhu cầu của mình khi tham gia QHPL.
-    *   *Nội dung:* Bao gồm Quyền pháp lý (những gì được làm) và Nghĩa vụ pháp lý (những gì bắt buộc phải làm) của các bên.
-*   **Sự kiện pháp lý:** Là những điều kiện, hoàn cảnh, sự việc thực tế được quy định trong luật mà khi chúng xảy ra sẽ làm phát sinh, thay đổi hoặc chấm dứt một QHPL cụ thể (Chia làm 2 loại: *Hành vi* do ý chí con người và *Sự biến* do tự nhiên).
-### 2. Vi phạm pháp luật (VPPL)
-*   **Khái niệm:** Là hành vi (hành động hoặc không hành động) trái pháp luật, có lỗi, do chủ thể có năng lực trách nhiệm pháp lý thực hiện, xâm hại đến các quan hệ xã hội được pháp luật bảo vệ.
-*   **4 yếu tố cấu thành Vi phạm pháp luật:**
-    *   *Mặt khách quan:* Những biểu hiện ra bên ngoài thế giới thực tế (Hành vi trái luật, Hậu quả thiệt hại cho xã hội, Mối quan hệ nhân quả giữa hành vi và hậu quả, thời gian, địa điểm).
-    *   *Mặt chủ quan:* Trạng thái tâm lý bên trong của người vi phạm, cốt lõi là **Lỗi**. Gồm:
-        *   Lỗi cố ý trực tiếp / Lỗi cố ý gián tiếp.
-        *   Lỗi vô ý do quá tự tin / Lỗi vô ý do cẩu thả.
-        *   Động cơ và mục đích vi phạm.
-    *   *Khách thể:* Quan hệ xã hội được luật bảo vệ nhưng bị hành vi vi phạm pháp luật xâm hại tới.
-    *   *Chủ thể:* Cá nhân (có năng lực trách nhiệm pháp lý và đạt độ tuổi quy định) hoặc tổ chức thực hiện hành vi sai phạm.
-### 3. Trách nhiệm pháp lý
-*   **Khái niệm:** Là một loại quan hệ pháp luật đặc biệt giữa Nhà nước và chủ thể vi phạm, trong đó chủ thể vi phạm phải gánh chịu những hậu quả bất lợi, những biện pháp cưỡng chế được quy định tại chế tài của quy phạm pháp luật.
-*   **4 loại trách nhiệm pháp lý tương ứng:**
-    *   *Trách nhiệm hình sự:* Loại nghiêm trọng nhất, do Tòa án áp dụng đối với các cá nhân, pháp nhân thương mại phạm tội được quy định trong Bộ luật Hình sự.
-    *   *Trách nhiệm hành chính:* Do cơ quan quản lý nhà nước áp dụng đối với các cá nhân, tổ chức vi phạm hành chính (Xử phạt tiền, tước giấy phép...).
-    *   *Trách nhiệm dân sự:* Mang tính chất tài sản, do Tòa án hoặc Trọng tài áp dụng nhằm khôi phục lại tình trạng tài sản bị xâm hại (Bồi thường thiệt hại, phạt vi phạm hợp đồng).
-    *   *Trách nhiệm kỷ luật:* Do người đứng đầu cơ quan, tổ chức áp dụng đối với cán bộ, công chức, viên giáo, người lao động hoặc học sinh, sinh viên vi phạm kỷ luật nội bộ (Khiển trách, cảnh cáo, hạ bậc lương, sa thải, đuổi học).
+## 📌 Mục Lục
+*   [1. Thị Trường Tiền Tệ & Lạm Phát](#1-thị-trường-tiền-tệ--lạm-phát)
+*   [2. Chính Sách Tài Khóa & Mô Hình Tổng Cung - Tổng Cầu (AD-AS)](#2-chính-sách-tài-khóa--mô-hình-tổng-cung---tổng-cầu-ad-as)
+*   [3. Tăng Trưởng Kinh Tế, Năng Suất & Suy Thoái](#3-tăng-trưởng-kinh-tế-năng-suất--suy-thoái)
+*   [4. Thị Trường Vốn Vay & Đầu Tư Tài Chính](#4-thị-trường-vốn-vay--đầu-tư-tài-chính)
+*   [5. Thị Trường Lao Động & Đường Cong Phillips](#5-thị-trường-lao-động--đường-cong-phillips)
+*   [6. Hệ Thống Tài Khoản Quốc Gia & Công Thức Tính Toán](#6-hệ-thống-tài-khoản-quốc-gia--công-thức-tính-toán)
+    *   [Khái niệm cơ bản](#khái-niệm-cơ-bản)
+    *   [Khối tiền & Số nhân tiền](#khối-tiền--số-nhân-tiền)
+    *   [Các công thức tính toán khác](#các-công-thức-tính-toán-khác)
+*   [7. Các Trường Hợp Đặc Biệt Khác](#7-các-trường-hợp-đặc-biệt-khác)
+## 1. Thị Trường Tiền Tệ & Lạm Phát
+*   **Phát hiện về vàng:** Khi cung tiền tăng $\rightarrow$ giá tăng $\rightarrow$ người đi vay được lợi, người cho vay bị bất lợi.
+*   **Tính trung lập của tiền:** Khi cung tiền tăng, các biến danh nghĩa tăng nhưng các biến thực tế không đổi.
+*   **Bẫy thanh khoản:** Là tình trạng áp dụng chính sách tiền tệ nới lỏng nhưng không còn hiệu quả.
+*   **Cung tiền và giá cả:** Cung tiền tăng thì giá cả tăng.
+*   **Cung tiền lớn hơn cầu tiền:** Người dân sẽ bán các tài sản sinh lãi, dẫn đến lãi suất tăng.
+*   **Lý thuyết ưa thích thanh khoản:** Mô hình này phù hợp để giải thích các biến động trong **ngắn hạn**.
+*   **Biến động giá tương đối:** Biến động về giá tương đối tăng cùng với lạm phát, gây ra hiện tượng phân bổ sai nguồn lực.
+*   **Chỉ số hóa (Indexation):** Là sự tự động điều chỉnh một lượng tiền theo luật pháp hoặc hợp đồng để chống lại tác động của lạm phát.
+## 2. Chính Sách Tài Khóa & Mô Hình Tổng Cung - Tổng Cầu (AD-AS)
+*   **Mô hình sử dụng:** Phần lớn các nhà kinh tế sử dụng mô hình $AD - AS$ để giải thích các biến động trong ngắn hạn.
+*   **Trục tọa độ mô hình:** Trục tung là Mức giá ($P$), trục hoành là Sản lượng ($Y$).
+*   **Tác động của cắt giảm thuế:** Cắt giảm thuế tạm thời có tác động nhỏ hơn đối với tiêu dùng và tổng cầu so với cắt giảm thuế vĩnh viễn.
+*   **Chính sách trong khủng hoảng / suy thoái:**
+    *   Khi nền kinh tế khủng hoảng, sử dụng **chính sách mở rộng**: Thuế giảm, chi tiêu chính phủ ($G$) tăng $\rightarrow$ Tổng cầu ($AD$) tăng.
+    *   Trong suy thoái, thuế có xu hướng tự động giảm giúp tổng cầu tăng.
+    *   **Công cụ ổn định tự động:** Trợ cấp thất nghiệp là một công cụ giúp ổn định nền kinh tế tự động.
+*   **Sự lấn át (Crowding-out):** Chi tiêu chính phủ ($G$) tăng $\rightarrow$ Lãi suất ($r$) tăng $\rightarrow$ Đầu tư tư nhân ($I$) giảm.
+*   **Gia tốc đầu tư:** Chi cho tiêu dùng ($C$) tăng sẽ kích cầu hàng hóa đầu tư ($I$).
+*   **Tác động của giá kỳ vọng:** Giá kỳ vọng tăng $\rightarrow$ $AD$ dịch phải trong ngắn hạn (có thể giảm trong dài hạn); $AS$ giảm (dịch trái) trong ngắn hạn.
+*   **3 Hiệu ứng giải thích đường AD dốc xuống:**
+    *   **Hiệu ứng của cải:** Giá ($P$) giảm $\rightarrow$ Tiêu dùng ($C$) tăng $\rightarrow$ Sản lượng ($Y$) tăng.
+    *   **Hiệu ứng lãi suất:** Giá ($P$) giảm $\rightarrow$ Tiết kiệm ($S$) tăng $\rightarrow$ Cung vốn vay tăng $\rightarrow$ Lãi suất giảm $\rightarrow$ Đầu tư ($I$) tăng $\rightarrow$ Sản lượng ($Y$) tăng.
+    *   **Hiệu ứng tỷ giá hối đoái:** Giá ($P$) giảm $\rightarrow$ Lãi suất giảm $\rightarrow$ Nội tệ mất giá $\rightarrow$ Xuất khẩu ròng ($NX$) tăng $\rightarrow$ Sản lượng ($Y$) tăng.
+## 3. Tăng Trưởng Kinh Tế, Năng Suất & Suy Thoái
+*   **Thước đo mức sống:** Được đo bằng phần trăm thay đổi của GDP thực tế.
+*   **Yếu tố quyết định năng suất:** Vốn con người trên mỗi lao động là yếu tố cốt lõi.
+*   **Tỷ lệ tiết kiệm:** Trong dài hạn, tỷ lệ tiết kiệm cao hơn sẽ làm tăng năng suất.
+*   **Động lực sản xuất:** Cách tốt nhất để tối ưu hóa và sử dụng sản xuất hiệu quả là phát triển **công nghệ**.
+*   **Định nghĩa suy thoái tại Mỹ:** Nền kinh tế có GDP thực tế sụt giảm liên tiếp trong **2 quý** (6 tháng).
+*   **Đặc điểm của suy thoái:** Trong thời kỳ suy thoái, chi tiêu đầu tư giảm với tỷ lệ lớn hơn và nhanh hơn nhiều so với mức giảm của GDP.
+*   **Đánh đổi chính sách:** Khi chính phủ phân phối lại thu nhập từ người giàu sang người nghèo, mọi người có xu hướng làm việc ít hơn (giảm tính hiệu quả).
+*   **Các học thuyết kinh tế lớn:**
+    *   **Malthus:** Cạn kiệt tài nguyên do áp lực gia tăng dân số.
+    *   **Fogel:** Sức khỏe và dinh dưỡng là nền tảng thúc đẩy năng suất.
+    *   **Henry Ford:** Thực hiện chính sách trả lương cao (lương hiệu quả) để tối ưu năng suất lao động.
+## 4. Thị Trường Vốn Vay & Đầu Tư Tài Chính
+*   **Thâm hụt ngân sách:** Khi ngân sách thâm hụt, chính phủ vay mượn nhiều hơn khiến tiết kiệm của chính phủ giảm.
+*   **Động lực tiết kiệm:** Khi gửi tiết kiệm, người dân thực sự quan tâm đến **lãi suất thực sau thuế**.
+*   **Cổ tức:** 
+    $$\text{Cổ tức} = \text{Tỷ suất cổ tức} \times \text{Giá bán}$$
+*   **Hệ số P/E:** 
+    $$P/E = \frac{\text{Giá bán}}{\text{Lợi nhuận}}$$
+*   **Lợi nhuận để lại (Retained Earnings):** Là phần lợi nhuận ròng còn lại của doanh nghiệp sau khi đã nộp thuế và trả cổ tức.
+*   **Thông tin bất cân xứng:**
+    *   **Rủi ro lựa chọn ngược (Adverse Selection):** Xảy ra **trước** khi giao dịch diễn ra.
+    *   **Rủi ro đạo đức (Moral Hazard):** Xảy ra **sau** khi giao dịch hoàn tất.
+## 5. Thị Trường Lao Động & Đường Cong Phillips
+*   **Thất nghiệp cơ cấu:**
+    *   *Nguyên nhân:* Do hoạt động của công đoàn, luật lương tối thiểu và chính sách lương hiệu quả.
+    *   *Giải pháp:* Các chính sách hỗ trợ đào tạo nghề giúp giảm loại thất nghiệp này.
+*   **Thất nghiệp cọ xát:** Sự chuyển dịch cơ cấu giữa các ngành và các vùng địa lý làm tăng số người thất nghiệp do mất thời gian tìm việc làm mới.
+*   **Đường cong Phillips & Chính sách tiền tệ:**
+    *   *Trong ngắn hạn:* Lạm phát tăng thì thất nghiệp tạm thời giảm. Nếu Ngân hàng Trung ương (NHTW) giảm cung tiền $\rightarrow$ nền kinh tế di chuyển sang một điểm trên đường Phillips với tỷ lệ thất nghiệp ($U$) tăng.
+    *   *Trong dài hạn:* Lạm phát không có ảnh hưởng đến tỷ lệ thất nghiệp.
+## 6. Hệ Thống Tài Khoản Quốc Gia & Công Thức Tính Toán
+### Khái niệm cơ bản
+*   **Đồng nhất thức:** Trong hệ thống tài khoản quốc gia, Tổng thu nhập $Y = GDP_{real}$.
+*   **Thu nhập quốc dân (NI) vs Tổng sản phẩm (GDP):** Hai chỉ số này khác nhau chủ yếu ở khoản **sai số thống kê**.
+*   **Tiền tệ quốc tế:** Khi tiền Việt Nam mất giá hoặc người dân kỳ vọng giá cả tăng $\rightarrow$ Mức giá ($P$) tăng, sản lượng ($Y$) giảm.
+### Khối tiền & Số nhân tiền
+*   **Mô hình cung cầu tiền:** Đường cung tiền ($MS$) thẳng đứng, đường cầu tiền ($MD$) dốc xuống. Trục tung là lãi suất ($i$) hoặc giá trị tiền ($1/P$), trục hoành là Lượng tiền ($M$).
+*   **Lượng tiền cơ sở (MB):** 
+    $$MB = C + rr \times D$$
+*   **Số nhân tiền ($m$):** 
+    $$m = \frac{cr + 1}{cr + rr}$$
+    *(Số nhân tiền $m$ sẽ tăng nếu tỷ lệ nắm giữ tiền mặt $cr$ giảm hoặc tỷ lệ dự trữ bắt buộc $rr$ giảm).*
+*   **Lưu ý chính sách:** Khi ngân hàng trung ương trả **lãi suất dự trữ** cho các ngân hàng thương mại, nó có thể khiến tỷ lệ dự trữ bắt buộc không còn quá cần thiết.
+### Các công thức tính toán khác
+*   **Tiết kiệm tư nhân ($S_p$):** 
+    $$S_p = Y - T - C$$
+*   **Tiết kiệm chính phủ ($S_g$):** 
+    $$S_g = T - G$$
+*   **Tiết kiệm quốc gia ($S_n$):** 
+    $$S_n = S_p + S_g$$
+*   **Xu hướng tiêu dùng biên (MPC):** 
+    $$MPC = \frac{\Delta \text{Tiêu dùng}}{\Delta \text{Thu nhập}}$$
+*   **GDP thực tế:** 
+    $$GDP_{\text{thực}} = \text{Giá năm gốc} \times \text{Sản lượng năm hiện tại}$$
+*   **Chỉ số giá tiêu dùng (CPI):** 
+    $$CPI = \frac{P_t \times Q_0}{P_0 \times Q_0}$$
+    *(CPI thi thoảng mới điều chỉnh danh mục hàng hóa $Q_0$, trong khi chỉ số điều chỉnh GDP - DGDP được điều chỉnh hàng năm).*
+*   **Sơ đồ chuyển đổi tài khoản:**
+    $$GDP \xrightarrow{-NFA} GNP \xrightarrow{-Dep} NNP \xrightarrow{-\text{sai số}} NI \xrightarrow{-OI} PI \rightarrow DI \,(Y_d)$$
+*   **GDP thực bình quân đầu người mới:**
+    $$\text{GDPr đầu người mới} = \frac{\text{GDPr mới}}{\text{Dân số mới} \times \text{DGDP mới}}$$
+
+
+## 7. Các Trường Hợp Đặc Biệt Khác
+
+*   **Thị trường dư cung:** Khi thị trường tự điều chỉnh về mức cân bằng, **không có đường nào dịch chuyển**, lượng cung sẽ tự động giảm và lượng cầu tăng khi lãi suất/giá cả dịch chuyển về điểm cân bằng.
